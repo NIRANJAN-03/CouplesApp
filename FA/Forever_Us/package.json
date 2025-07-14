@@ -1,0 +1,42 @@
+{
+  "name": "forever_us",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.1.0",
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "@react-native-picker/picker": "2.11.1",
+    "@react-navigation/native": "^7.1.14",
+    "@react-navigation/native-stack": "^7.3.21",
+    "axios": "^1.10.0",
+    "expo": "~53.0.17",
+    "expo-auth-session": "~6.2.1",
+    "expo-dev-client": "~5.2.4",
+    "expo-linear-gradient": "~14.1.5",
+    "expo-random": "^14.0.1",
+    "expo-secure-store": "~14.2.3",
+    "expo-status-bar": "~2.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "0.79.5",
+    "react-native-country-picker-modal": "^2.0.0",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-phone-number-input": "^2.1.0",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.11.1",
+    "react-native-svg": "^15.11.2",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-wheel-picker-expo": "^0.5.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
